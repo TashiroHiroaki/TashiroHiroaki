@@ -1,4 +1,4 @@
-Name:        Tashiro Hiroaki  
+Name:        Tashiro Hiroaki(JP: 田代 広晃)  
 Country:     Saga, Japan  
 Language:    Japanese, English(not good. but I'll do best)  
 Birthday:    January 25th  
