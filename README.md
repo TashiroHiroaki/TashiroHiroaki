@@ -1,9 +1,12 @@
-Name:        Tashiro Hiroaki(JP: 田代 広晃)  
-Country:     Saga, Japan  
-Language:    Japanese, English(not good. but I'll do best)  
-Birthday:    January 25th  
-Instagram:   [@hiro___aki0125](https://instagram.com/hiro___aki0125)  
-Facebook:    [TashiroHiroaki](https://facebook.com/TashiroHiroaki)  
-佐賀県立佐賀北高等学校に在学中(2025.04~)
+## About Me
+* 佐賀北高等学校に在学中(25.04~)
+* 写真とアニメが好き
+* 最近は学マスにハマってる(ことねP)
+* 多久でイベントの企画とかボランティアとかしてたりしてました。
+* 今のところ簡単なHTML, CSS, VBScriptがかけます
 
-どうぞよろしくお願いいたします。
+* Currently enrolled at Saga-kita Senior High School (25.04~)
+* Loves photography and anime
+* Recently addicted to Gakumas (Kotone P)
+* I used to organize events and do volunteer work in Taku.
+* I can write simple HTML, CSS, VBScript at the moment.
