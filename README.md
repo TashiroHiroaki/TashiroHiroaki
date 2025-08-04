@@ -1,12 +1,18 @@
-## About Me
-* 佐賀北高等学校に在学中(25.04~)
-* 写真とアニメが好き
-* 最近は学マスにハマってる(ことねP)
-* 多久でイベントの企画とかボランティアとかしてたりしてました。
-* 今のところ簡単なHTML, CSS, VBScriptがかけます
+# 👋 Hi there! I'm Hiroaki!
 
-* Currently enrolled at Saga-kita Senior High School (25.04~)
-* Loves photography and anime
-* Recently addicted to Gakumas (Kotone P)
-* I used to organize events and do volunteer work in Taku.
-* I can write simple HTML, CSS, VBScript at the moment.
+<!-- キャッチコピーや一言 -->
+**Senior High Schooler / GakumasP / Hobbyist Server Admin
+
+---
+
+## 🧑‍💻 About Me
+- 🌱 I’m currently learning: **English(Eiken® Pre-2 Grade) / Windows / Linux(Ubuntu)**
+- 💡 Interests: **THE IDOLM@STER Gakuen / Anime / Server Hosting**
+- 📍 Location: **Saga, Japan**
+- 🐾 Hobbies: **Listening to Music**
+
+---
+
+<!-- 好きな一言や座右の銘などもおすすめです！ -->
+> “負けないように 枯れないように 笑って咲く花になろう”  
+> Mr.Children｢花 -Memento-Mori-｣
